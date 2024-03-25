@@ -150,7 +150,7 @@ const Footer = () => {
 
           <div class="text-center">
             © 2022 Copyright:
-            <a class="text-color-3" >
+            <a class="text-color-3">
               Sanket Suresh Chauthe
             </a>
           </div>
